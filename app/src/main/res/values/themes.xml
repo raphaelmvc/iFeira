@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base application theme -->
+    <style name="Base.Theme.iFeira" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your theme here -->
+        <item name="colorPrimary">@color/secundaria</item>
+        <item name="colorPrimaryDark">@color/secundaria</item>
+        <item name="colorAccent">@color/secundaria</item>
+        <item name="colorSecondary">@color/secundaria</item>
+        <item name="colorSecondaryVariant">@color/preto</item>
+
+    </style>
+    <style name="Theme.iFeira." parent="Base.Theme.iFeira" />
+</resources>

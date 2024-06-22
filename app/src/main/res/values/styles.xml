@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <style name="ContainerAcimaLogo_Normal">
+
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">70dp</item>
+        <item name="android:background">@drawable/container_components</item>
+        <item name="android:layout_margin">20dp</item>
+
+    </style>
+    <style name="ContainerComponents">
+
+    <item name="android:layout_width">match_parent</item>
+    <item name="android:layout_height">300dp</item>
+    <item name="android:background">@drawable/container_components</item>
+    <item name="android:layout_margin">20dp</item>
+
+    </style>
+
+    <style name="Container">
+
+        <item name="android:layout_width">270dp</item>
+        <item name="android:layout_height">150dp</item>
+        <item name="android:background">@drawable/container_components</item>
+        <item name="android:layout_margin">20dp</item>
+
+    </style>
+    <style name="ContainerComponentsSmall">
+
+        <item name="android:layout_width">270dp</item>
+        <item name="android:layout_height">100dp</item>
+        <item name="android:background">@drawable/container_components</item>
+        <item name="android:layout_margin">20dp</item>
+
+    </style>
+
+    <style name="ContainerComponentsNormal">
+
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">250dp</item>
+        <item name="android:background">@drawable/container_components</item>
+        <item name="android:layout_margin">20dp</item>
+
+    </style>
+    <style name="ContainerComponentsLarge">
+
+        <item name="android:layout_width">400dp</item>
+        <item name="android:layout_height">250dp</item>
+        <item name="android:background">@drawable/container_components</item>
+        <item name="android:layout_margin">20dp</item>
+
+    </style>
+    <style name="Container_Normal">
+
+        <item name="android:layout_width">260dp</item>
+        <item name="android:layout_height">80dp</item>
+        <item name="android:background">@drawable/container_components</item>
+        <item name="android:layout_margin">20dp</item>
+
+    </style>
+
+    <style name="ContainerComponentsCadastro">
+
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">450dp</item>
+        <item name="android:background">@drawable/container_components</item>
+        <item name="android:layout_margin">20dp</item>
+
+    </style>
+
+    <style name="ContainerComponentsCadastro2">
+
+        <item name="android:layout_width">220dp</item>
+        <item name="android:layout_height">150dp</item>
+        <item name="android:background">@drawable/container_components</item>
+        <item name="android:layout_margin">20dp</item>
+
+    </style>
+
+
+    <style name = "Edit_Text">
+
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">@drawable/edit_text</item>
+        <item name="android:padding">20dp</item>
+        <item name="android:maxLines">1</item>
+        <item name="android:layout_marginLeft">40dp</item>
+        <item name="android:layout_marginRight">40dp</item>
+        <item name="android:layout_marginTop">20dp</item>
+
+    </style>
+    <style name = "Edit_Text_Normal">
+
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">@drawable/edit_text</item>
+        <item name="android:padding">15dp</item>
+        <item name="android:maxLines">1</item>
+        <item name="android:layout_marginLeft">50dp</item>
+        <item name="android:layout_marginRight">50dp</item>
+        <item name="android:layout_marginTop">10dp</item>
+
+    </style>
+    <style name = "Edit_Text_Large">
+
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">@drawable/edit_text</item>
+        <item name="android:padding">15dp</item>
+        <item name="android:maxLines">1</item>
+        <item name="android:layout_marginLeft">150dp</item>
+        <item name="android:layout_marginRight">150dp</item>
+        <item name="android:layout_marginTop">10dp</item>
+
+    </style>
+
+
+    <style name = "Button">
+        <item name ="android:layout_width">match_parent</item>
+        <item name ="android:layout_height">wrap_content</item>
+        <item name ="android:background">@drawable/botao</item>
+        <item name ="android:layout_marginLeft">40dp</item>
+        <item name ="android:layout_marginRight">40dp</item>
+        <item name ="android:layout_marginTop">15dp</item>
+        <item name ="android:textColor">@color/branco</item>
+        <item name ="android:textSize">15sp</item>
+        <item name ="android:textStyle">bold</item>
+    </style>
+    <style name = "Button_Normal">
+        <item name ="android:layout_width">match_parent</item>
+        <item name ="android:layout_height">wrap_content</item>
+        <item name ="android:background">@drawable/botao</item>
+        <item name ="android:layout_marginLeft">50dp</item>
+        <item name ="android:layout_marginRight">50dp</item>
+        <item name ="android:layout_marginTop">15dp</item>
+        <item name ="android:textColor">@color/branco</item>
+        <item name ="android:textSize">15sp</item>
+        <item name ="android:textStyle">bold</item>
+
+    </style>
+</resources>
