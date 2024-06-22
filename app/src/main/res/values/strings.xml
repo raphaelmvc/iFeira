@@ -53,6 +53,7 @@
     </string>
     <string name="title_activity_main">MainActivity</string>
     <string name="title_activity_home">Home</string>
+    <string name="title_activity_perfil">Perfil</string>
 
 
 </resources>

@@ -4,6 +4,7 @@
     android:layout_height="wrap_content"
     android:orientation="vertical"
     android:padding="16dp"
+    android:clickable="true"
     android:background="@color/secundaria">
 
     <ImageView
@@ -13,6 +14,7 @@
         android:layout_gravity="center_horizontal"/>
 
     <TextView
+        android:id="@+id/textViewNomeUsuario"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Seu Nome"
@@ -21,6 +23,7 @@
         android:layout_marginTop="8dp"/>
 
     <TextView
+        android:id="@+id/textViewEmailUsuario"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="email@example.com"

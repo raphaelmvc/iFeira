@@ -10,5 +10,8 @@
         <item name="colorSecondaryVariant">@color/preto</item>
 
     </style>
+
     <style name="Theme.iFeira." parent="Base.Theme.iFeira" />
+
+    <style name="Theme.iFeira" parent="android:Theme.Material.Light.NoActionBar" />
 </resources>

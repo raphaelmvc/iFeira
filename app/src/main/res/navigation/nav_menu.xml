@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
     <group android:checkableBehavior="single">
         <item
             android:id="@+id/nav_home"
@@ -7,8 +8,11 @@
         <item
             android:id="@+id/nav_pesquisar"
             android:title="Pesquisar" />
+
         <item
             android:id="@+id/nav_perfil"
-            android:title="Perfil" />
+            android:title="Perfil"
+            app:action="@+id/action_nav_home_to_activity_perfil"
+            />
     </group>
 </menu>
